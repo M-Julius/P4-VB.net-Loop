@@ -1,0 +1,6 @@
+/Users/macbookpro13retina16gb256gbssd/Project/VB/p4_loop/bin/Debug/p4_loop.exe
+/Users/macbookpro13retina16gb256gbssd/Project/VB/p4_loop/bin/Debug/p4_loop.pdb
+/Users/macbookpro13retina16gb256gbssd/Project/VB/p4_loop/obj/Debug/p4_loop.vbproj.AssemblyReference.cache
+/Users/macbookpro13retina16gb256gbssd/Project/VB/p4_loop/obj/Debug/p4_loop.vbproj.CoreCompileInputs.cache
+/Users/macbookpro13retina16gb256gbssd/Project/VB/p4_loop/obj/Debug/p4_loop.exe
+/Users/macbookpro13retina16gb256gbssd/Project/VB/p4_loop/obj/Debug/p4_loop.pdb

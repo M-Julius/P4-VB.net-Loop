@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{220224CD-5D6E-457A-A2D8-F1EEB44ED5E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssemblyInfo.vb">
+    <Files>
+      <File FileName="Application.vb" Line="47" Column="12" />
+      <File FileName="AssemblyInfo.vb" Line="2" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="p4_loop" expanded="True">
+            <Node name="p4_loop" expanded="True">
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.p4__loop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

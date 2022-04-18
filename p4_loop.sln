@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "p4_loop", "p4_loop.vbproj", "{220224CD-5D6E-457A-A2D8-F1EEB44ED5E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220224CD-5D6E-457A-A2D8-F1EEB44ED5E6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{220224CD-5D6E-457A-A2D8-F1EEB44ED5E6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{220224CD-5D6E-457A-A2D8-F1EEB44ED5E6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{220224CD-5D6E-457A-A2D8-F1EEB44ED5E6}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C99F05E-74B1-4E64-A07E-AD698AF4B341}
+	EndGlobalSection
+EndGlobal
